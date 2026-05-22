@@ -28838,5 +28838,12 @@
     "author": "Arturs Bridaks",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Review changes and push them without the terminal.",
     "repo": "artursbridaks/easy-push"
+  },
+  {
+    "id": "vault-sync",
+    "name": "Vault Sync",
+    "author": "Danny-sth",
+    "description": "Real-time file synchronization between devices using WebSocket",
+    "repo": "Danny-sth/vault-sync"
   }
 ]
